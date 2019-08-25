@@ -6,3 +6,8 @@ This repository has Spring Cloud Configuration to hold your application configur
 * run the client port at port 8002 to use the above server.
 * well done !!
 * keep it up
+
+
+## Link to my channel
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
