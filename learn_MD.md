@@ -1,4 +1,4 @@
-## What You Will Learn during this Step:
+## What You Will Learn during these Steps:
 - Set up an Maven Project with Eclipse.
  - Intellij Link : https://www.jetbrains.com/help/idea/2016.2/getting-started-with-maven.html#create_maven_project
 - Copy Two Files pom.xml and Application.java
