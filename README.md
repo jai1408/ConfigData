@@ -8,6 +8,7 @@ This repository has Spring Cloud Configuration to hold your application configur
 * keep it up
 * go ahead
 * hey you !!
+* this one is added now
 
 
 ## Link to my channel
