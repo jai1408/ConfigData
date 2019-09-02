@@ -1,3 +1,5 @@
+# Important Notes
+
 ## What You Will Learn during this Step:
 - Set up an Maven Project with Eclipse.
  - Intellij Link : https://www.jetbrains.com/help/idea/2016.2/getting-started-with-maven.html#create_maven_project
